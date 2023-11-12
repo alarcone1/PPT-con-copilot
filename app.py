@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Especificación del minijuego de Piedra, Papel o Tijeras para ser ejecutado desde la terminal
 # El objetivo del juego es ganar más rondas que el oponente.
 # Reglas del juego:
@@ -67,3 +68,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+=======
+
+>>>>>>> origin
